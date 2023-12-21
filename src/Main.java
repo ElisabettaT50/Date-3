@@ -43,6 +43,6 @@ public class Main {
 
         System.out.println("Data è precedente a data2? " + before);
         System.out.println("Data è successiva a data2? " + after);
-        System.out.println("In valore numerico, quale posizione occupa data rispetto a data2? " + comparison);
+        System.out.println("Quale posizione occupa data rispetto a data2 (usando un valore numerico)? " + comparison);
     }
 }
